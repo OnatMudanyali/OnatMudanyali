@@ -1,4 +1,3 @@
-### Hi everyone 👋
 <h1 align="center">Hi 👋, I'm ONAT MUDANYALI</h1>
 <h3 align="center">A developer working passionately in Turkey</h3>
 
